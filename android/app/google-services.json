@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1061623139335",
+    "firebase_url": "https://realtime-96ae3-default-rtdb.firebaseio.com",
+    "project_id": "realtime-96ae3",
+    "storage_bucket": "realtime-96ae3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061623139335:android:1e53353a599ff1eb17aea2",
+        "android_client_info": {
+          "package_name": "com.example.makeit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1061623139335-7bih6du8i6c7ts6hmksek7a2qkmsf71m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.makeit",
+            "certificate_hash": "4aa56a2445bd51f654c436dc608c9f577094d430"
+          }
+        },
+        {
+          "client_id": "1061623139335-mufhmr3240i0srdi49cdokbffknfeldv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8fXJVcm7aw5EYA1aloz5I3BMJVXpMxl8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1061623139335-mufhmr3240i0srdi49cdokbffknfeldv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
